@@ -24,11 +24,11 @@
 <!-- ── Screenshots (replace the two files in /assets) ──────────────────────── -->
 <br>
 
-<img src="assets/launcher.png" alt="EKey-Jerboa launcher" width="80%">
+<img src="/docs%20screenshots/pazzle.png" alt="EKey-Jerboa launcher" width="80%">
 
 <br><br>
 
-<img src="assets/console.png" alt="EKey-Jerboa console" width="80%">
+<img src="/docs%20screenshots/cmd.png" alt="EKey-Jerboa console" width="80%">
 
 <br><br>
 
