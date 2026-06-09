@@ -1,0 +1,30 @@
+# ── Build artifacts ──────────────────────────────────────────────
+obj/
+*.o
+*.obj
+*.exe
+*.res
+EKey-Jerboa
+
+# ── Runtime / progress (generated) ───────────────────────────────
+# Deep progress folders: d{N}_{puz}_0x..-0x.._W{grid}_rnd/
+*_rnd/
+*.launcher
+_launcher_tmp.json
+Configs/
+
+# ── Python (launcher) ────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.spec
+
+# ── Editors / OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
