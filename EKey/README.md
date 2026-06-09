@@ -24,7 +24,7 @@
 <!-- ── Screenshots (replace the two files in /assets) ──────────────────────── -->
 <br>
 
-<img src="/docs%20screenshots/pazzle.png" alt="EKey-Jerboa launcher" width="80%">
+<img src="/docs%20screenshots/ui.png" alt="EKey-Jerboa launcher" width="80%">
 
 <br><br>
 
